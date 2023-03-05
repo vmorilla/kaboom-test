@@ -2,4 +2,4 @@ import kaboom from 'kaboom';
 
 kaboom();
 
-add([text('hello'), pos(120, 80)]);
+add([text('hello world'), pos(120, 80)]);
